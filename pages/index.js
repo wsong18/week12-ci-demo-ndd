@@ -44,11 +44,10 @@ export default function Home() {
           <div className={styles.ctas}>
             <a
               className={styles.primary}
-              href="https://abc.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+              href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
               target="_blank"
               rel="noopener noreferrer"
             >
-              By:{' '}
               <Image
                 className={styles.logo}
                 src="/vercel.svg"
